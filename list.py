@@ -25,3 +25,7 @@ print(arr[len(arr)-1])
 print(arr[-1]) # No, this won't return an out of bounds error
 
 # And you can combine this with the previous subarray accessing
+
+# How would you make a list that starts at 0 and ends at 7 in one line?
+seven = [i for i in range(8)]
+print(seven)

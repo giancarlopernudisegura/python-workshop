@@ -27,3 +27,6 @@ print("This workshop is boring".split('s', 2))
 print("Lorem ipsum blabla other words".split())
 
 # join
+a = "words random boat yeet"
+print(a.split())
+print('-'.join(a.split()))
