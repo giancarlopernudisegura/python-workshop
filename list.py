@@ -29,3 +29,7 @@ print(arr[-1]) # No, this won't return an out of bounds error
 # How would you make a list that starts at 0 and ends at 7 in one line?
 seven = [i for i in range(8)]
 print(seven)
+
+# In python, lists and tuples can have more than in type, they're not restricted to just ints or strs
+b = [1, "string", 3.0]
+print(b)

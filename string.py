@@ -27,6 +27,7 @@ print("This workshop is boring".split('s', 2))
 print("Lorem ipsum blabla other words".split())
 
 # join
+# How would I quickly join a bunch of strings together that are in a list of tuple?
 a = "words random boat yeet"
 print(a.split())
 print('-'.join(a.split()))
