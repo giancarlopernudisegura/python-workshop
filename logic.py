@@ -1,5 +1,5 @@
 # Logic operators are simple but different in python
-# There are not bitwise operators if you're coming from C
+# There are bitwise operators if you're coming from C
 # ||: or
 # &&: and
 # !: not
