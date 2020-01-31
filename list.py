@@ -13,6 +13,7 @@ print(len([1, 2]), len("wasd"))
 # Subarrays and subtrings
 # You don't need an extra method to access a subarray/substring
 # You can use the square bracket indexing
+# Exclusive
 arr = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 print(arr[1])
 print(arr[3:8])
